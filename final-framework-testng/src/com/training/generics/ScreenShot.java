@@ -64,9 +64,9 @@ public class ScreenShot {
 	}
 	
 
-	public void captureScreenShot(String fileName){
+	public void captureScreenShot(String fileName, WebDriver driver){
 		
-		String path =  "C:\\Users\\Naveen\\Desktop\\screenshots\\";
+		String path =  "C:\\Users\\DheerajNagrani\\Desktop\\Screenshots\\";
 	
 		// 1. create file 
 		// 2. capture screenshot from selenium 
